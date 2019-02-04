@@ -1,0 +1,9 @@
+F:\DOT NET BATCH\EvenOdd\EvenOdd\bin\Debug\EvenOdd.exe.config
+F:\DOT NET BATCH\EvenOdd\EvenOdd\bin\Debug\EvenOdd.exe
+F:\DOT NET BATCH\EvenOdd\EvenOdd\bin\Debug\EvenOdd.pdb
+F:\DOT NET BATCH\EvenOdd\EvenOdd\obj\Debug\EvenOdd.csprojResolveAssemblyReference.cache
+F:\DOT NET BATCH\EvenOdd\EvenOdd\obj\Debug\EvenOdd.Form1.resources
+F:\DOT NET BATCH\EvenOdd\EvenOdd\obj\Debug\EvenOdd.Properties.Resources.resources
+F:\DOT NET BATCH\EvenOdd\EvenOdd\obj\Debug\EvenOdd.csproj.GenerateResource.Cache
+F:\DOT NET BATCH\EvenOdd\EvenOdd\obj\Debug\EvenOdd.exe
+F:\DOT NET BATCH\EvenOdd\EvenOdd\obj\Debug\EvenOdd.pdb
